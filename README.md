@@ -1,9 +1,9 @@
 # Weather App
-## Weatcher app using reactjs
+## Weather app using reactjs
 
-![](screenshots/1.png)
-![](screenshots/2.png)
-![](screenshots/3.png)
+![](weather/screenshots/1.png)
+![](weather/screenshots/2.png)
+![](weather/screenshots/3.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
