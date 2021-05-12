@@ -1,0 +1,28 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(77, 77, 161);
+    opacity: 0.8;
+    min-height: 60px;
+}
+.logo{
+    color:rgb(5, 5, 26);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.nav-links{
+    display: flex;
+    justify-content: space-around;
+    width: 20%;
+}
+.nav-links li{
+    list-style: none;   
+    
+}
+.nav-links a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 19px;
+}
