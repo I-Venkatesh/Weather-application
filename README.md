@@ -1,9 +1,9 @@
 # Weather App
 ## Weather app using reactjs
 
-![](weather/screenshots/1.png)
-![](weather/screenshots/2.png)
-![](weather/screenshots/3.png)
+![](weather/screenshots/first.png)
+![](weather/screenshots/second.png)
+![](weather/screenshots/third.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
